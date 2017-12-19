@@ -1,0 +1,4 @@
+F:\programing\worck\Darwin_Grove\CircleMuve\FigureLibrary\bin\Debug\FigureLibrary.dll
+F:\programing\worck\Darwin_Grove\CircleMuve\FigureLibrary\bin\Debug\FigureLibrary.pdb
+F:\programing\worck\Darwin_Grove\CircleMuve\FigureLibrary\obj\Debug\FigureLibrary.dll
+F:\programing\worck\Darwin_Grove\CircleMuve\FigureLibrary\obj\Debug\FigureLibrary.pdb

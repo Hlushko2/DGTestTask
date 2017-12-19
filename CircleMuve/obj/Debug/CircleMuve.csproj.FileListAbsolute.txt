@@ -1,0 +1,11 @@
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\bin\Debug\CircleMuve.exe.config
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\obj\Debug\CircleMuve.csprojResolveAssemblyReference.cache
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\obj\Debug\CircleMuve.Form1.resources
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\obj\Debug\CircleMuve.Properties.Resources.resources
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\obj\Debug\CircleMuve.csproj.GenerateResource.Cache
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\bin\Debug\CircleMuve.exe
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\bin\Debug\CircleMuve.pdb
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\obj\Debug\CircleMuve.exe
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\obj\Debug\CircleMuve.pdb
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\bin\Debug\FigureLibrary.dll
+F:\programing\worck\Darwin_Grove\CircleMuve\CircleMuve\bin\Debug\FigureLibrary.pdb

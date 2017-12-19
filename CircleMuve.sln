@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleMuve", "CircleMuve\CircleMuve.csproj", "{8729E864-F2E5-48E2-A5DA-37124CB03154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLibrary", "FigureLibrary\FigureLibrary.csproj", "{57B57032-723E-4316-B2F4-46EACDEA0D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8729E864-F2E5-48E2-A5DA-37124CB03154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8729E864-F2E5-48E2-A5DA-37124CB03154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8729E864-F2E5-48E2-A5DA-37124CB03154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8729E864-F2E5-48E2-A5DA-37124CB03154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B57032-723E-4316-B2F4-46EACDEA0D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B57032-723E-4316-B2F4-46EACDEA0D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B57032-723E-4316-B2F4-46EACDEA0D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B57032-723E-4316-B2F4-46EACDEA0D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
